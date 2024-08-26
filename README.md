@@ -1,6 +1,6 @@
 #  AI Chatbots in Dentistry: Applications, Benefits, and Challenges
 
-Artificial Intelligence (AI) and its diverse applications are transforming dentistry, particularly in clinical practice and education. Among these AI tools, chatbots have emerged as versatile solutions, enhancing both patient interaction and educational methodologies. This section delves into the various roles of AI chatbots in dental settings, outlining their applications, benefits, limitations, and potential future advancements.
+Artificial Intelligence (AI) and its diverse applications are transforming dentistry, particularly in clinical practice and education. Among these AI tools, chatbots have emerged as versatile solutions, enhancing both patient interaction and educational methodologies. This paper delves into the various roles of AI chatbots in dental settings, outlining their applications, benefits, limitations, and potential future advancements.
 
 #### Applications of AI Chatbots in Dentistry
 
