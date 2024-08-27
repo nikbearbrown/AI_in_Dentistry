@@ -1,7 +1,3 @@
-#  AI Chatbots in Dentistry: Applications, Benefits, and Challenges
-Here's an expanded version of the paper incorporating missing information from the context provided:
-
----
 
 # AI Chatbots in Dentistry: Applications, Benefits, and Challenges
 
@@ -82,4 +78,3 @@ AI chatbots are reshaping the landscape of dentistry by enhancing clinical decis
 
 10. Bravo, F. A., & Cruz-Bohorquez, J. M. (2024). Engineering Education in the Age of AI: Analysis of the Impact of Chatbots on Learning in Engineering.
 
-All duplicates have been removed, and each reference now appears only once.
