@@ -1,4 +1,4 @@
-### Market Research and Competitive Analysis for Selling a Chatbot to Dental Practices in Boston and Los Angeles
+### Market Research, Financial Projections and Competitive Analysis for Selling a Chatbot to Dental Practices in Boston and Los Angeles
 
 #### 1. **Market Overview**
 
