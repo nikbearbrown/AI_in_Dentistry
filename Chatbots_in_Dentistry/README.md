@@ -2,6 +2,8 @@
 
 Artificial Intelligence (AI) and its diverse applications are transforming dentistry, particularly in clinical practice and education. Among these AI tools, chatbots have emerged as versatile solutions, enhancing both patient interaction and educational methodologies. This paper delves into the various roles of AI chatbots in dental settings, outlining their applications, benefits, limitations, and potential future advancements.
 
+The first application to be built is a *Basic Dental Chatbot*  [https://github.com/nikbearbrown/AI_in_Dentistry/tree/main/Basic_Dental_ChatBot](https://github.com/nikbearbrown/AI_in_Dentistry/tree/main/Basic_Dental_ChatBot)  
+
 ## Applications of AI Chatbots in Dentistry
 
 1. **Clinical Decision Support and Diagnostics**:
