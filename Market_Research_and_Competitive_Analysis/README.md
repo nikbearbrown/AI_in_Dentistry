@@ -195,7 +195,7 @@ Targeting academic dental markets in Boston and Los Angeles presents a unique op
 - Tailor marketing efforts to highlight both educational and clinical benefits, appealing to faculty, clinic administrators, and IT decision-makers.
 - Develop specialized packages that cater specifically to the needs of academic institutions, offering flexibility and customization to fit different educational settings.
 
-### **Updated Financial Model for Targeting Dental Practices and Academic Institutions in Boston and Los Angeles**
+### **Financial Model for Targeting Dental Practices and Academic Institutions in Boston and Los Angeles**
 
 #### **Key Assumptions**
 
